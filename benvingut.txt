@@ -1,4 +1,4 @@
 Hola Món!!! El meu nom es Daniel
 
 B) Modificació 01 Main DJG
-D) Modificació 02 Master DJG
+C) Modificació a la branca02 DJG
