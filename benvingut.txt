@@ -3,3 +3,4 @@ Hola Món!!! El meu nom es Daniel
 B) Modificació 01 Main DJG
 C) Modificació a la branca02 DJG
 F) Afegida imatge a branca02 DJG
+G) Afegida imatge a branca02 DJG a github
